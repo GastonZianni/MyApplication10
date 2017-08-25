@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo">Calculadora de plazo fijoaaaaaaa</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="cuit">CUIT</string>
+    <string name="monto_invertir">importe</string>
+    <string name="dias_seleccionados"> </string>
+    <string name="dias_de_inversion">Cantidad de dias</string>
+    <string name="rendimiento"> </string>
+    <string name="boton">HACER PLAZO FIJO</string>
+    <string name="check">Renovar automaticamente el vencimiento</string>
+</resources>

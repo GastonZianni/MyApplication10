@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="cero_5000_menor">0.25</string>
+    <string name="cero_5000_mayor">.275</string>
+    <string name="cincoMil_100mil_menor">.30</string>
+    <string name="cincoMil_100mil_mayor">.323</string>
+    <string name="cienMil_menor">.35</string>
+    <string name="cienMil_mayor">.385</string>
+</resources>
